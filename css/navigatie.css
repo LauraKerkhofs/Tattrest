@@ -1,0 +1,28 @@
+/* // NAVIGATIE // */ 
+nav {
+	width: 80%;
+	height: 50px;
+	color: rgb(0,200,200);
+	text-align: right;
+	font-size: 15pt;
+	margin-left: 20%;
+}
+
+nav a {
+	margin: 15px;
+	text-decoration: none;
+	line-height: 50px;
+	letter-spacing: 3px;
+	color: rgb(0,200,200);
+}
+nav a:visited { 
+	color: rgb(0,200,200);
+}
+nav a:hover {
+	color: cyan;
+	font-weight: bold;
+	text-decoration: wavy underline lime;
+	text-shadow: 0 0 30px rgb(0,255,255);
+}
+
+
